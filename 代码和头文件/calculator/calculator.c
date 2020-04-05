@@ -1,8 +1,6 @@
 #include "../head/calculator.h"
 #include "stdlib.h"
 #include "stdio.h" 
-#define ERROR 0
-#define SUCCESS 1
 #define MAX 100 
 
 //初始化存放数的栈
